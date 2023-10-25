@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
+  
 
-<!--
-**alleneko/alleneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Days worked in
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![My Skills](https://skillicons.dev/icons?i=python&theme=dark&perline=1)](https://skillicons.dev)![](https://geps.dev/progress/0)
+  [![My Skills](https://skillicons.dev/icons?i=flask&theme=dark&perline=1)](https://skillicons.dev)![](https://geps.dev/progress/0)
+  [![My Skills](https://skillicons.dev/icons?i=c&theme=dark&perline=1)](https://skillicons.dev)![](https://geps.dev/progress/0)
+  [![My Skills](https://skillicons.dev/icons?i=cpp&theme=dark&perline=1)](https://skillicons.dev)![](https://geps.dev/progress/0)
+  
+  [![My Skills](https://skillicons.dev/icons?i=html&theme=dark&perline=1)](https://skillicons.dev)![](https://geps.dev/progress/0)
+  [![My Skills](https://skillicons.dev/icons?i=css&theme=dark&perline=1)](https://skillicons.dev)![](https://geps.dev/progress/0)
+  [![My Skills](https://skillicons.dev/icons?i=javascript&theme=dark&perline=1)](https://skillicons.dev)![](https://geps.dev/progress/0)
+  [![My Skills](https://skillicons.dev/icons?i=react&theme=dark&perline=1)](https://skillicons.dev)![](https://geps.dev/progress/0)
+  
+  [![My Skills](https://skillicons.dev/icons?i=sass&theme=dark&perline=1)](https://skillicons.dev)![](https://geps.dev/progress/0)
+  [![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark&perline=1)](https://skillicons.dev)![](https://geps.dev/progress/0)
+  [![My Skills](https://skillicons.dev/icons?i=github&theme=dark&perline=1)](https://skillicons.dev)![](https://geps.dev/progress/0)
+  [![My Skills](https://skillicons.dev/icons?i=linux&theme=dark&perline=1)](https://skillicons.dev)![](https://geps.dev/progress/0)
+  
+  [![My Skills](https://skillicons.dev/icons?i=pytorch&theme=dark&perline=1)](https://skillicons.dev)![](https://geps.dev/progress/0)
+  [![My Skills](https://skillicons.dev/icons?i=selenium&theme=dark&perline=1)](https://skillicons.dev)![](https://geps.dev/progress/0)
+  [![My Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark&perline=1)](https://skillicons.dev)![](https://geps.dev/progress/0)  
+  <br>
+  
+  [![Neko's GitHub stats](https://github-readme-stats.vercel.app/api?username=alleneko&show_icons=true&theme=highcontrast)](https://github.com/alleneko/github-readme-stats)
+</div>
